@@ -1,4 +1,1 @@
-Este repoisitorio contiene el cuaderno de Jupyter con la solución algorítmica desarrollada para detectar y clasificar espinas dendríticas en función de su morfología.
-Se incluyen también imágenes adicionales por si se quisiese probar la solución con otros ejemplo.
-Para hacer esto es necesario hacer un recorte de la dendrita que queramos analizar (del mismo tipo que aparece en el ejemplo) y pasarle el archivo directamente al código (el código debe ejecutarse de manera local),
-una vez hecho eso ejecutamos todo y se nos devolverán los resultados correspondientes
+Este repoisitorio contiene el cuaderno de Jupyter con la solución algorítmica desarrollada para detectar y clasificar espinas dendríticas en función de su morfología. Se incluyen también imágenes adicionales por si se quisiese probar la solución con otros ejemplo. Para hacer esto es necesario hacer un recorte de la dendrita que queramos analizar (del mismo tipo que aparece en el ejemplo) y pasarle el archivo directamente al código (el código debe ejecutarse de manera local),una vez hecho eso ejecutamos todo y se nos devolverán los resultados correspondientes
